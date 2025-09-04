@@ -118,11 +118,3 @@
 08-31-2025 11:13:33 AM - custom_logger - test_login.py | INFO : ************ Test001Login ************
 08-31-2025 11:13:33 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title STARTED ************
 08-31-2025 11:13:33 AM - custom_logger - test_login.py | INFO : ************ test_login_positive STARTED ************
-08-31-2025 11:13:33 AM - custom_logger - test_login.py | INFO : ************ Test002Login ************
-08-31-2025 11:13:33 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title2 STARTED ************
-08-31-2025 11:13:37 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title PASSED ************
-08-31-2025 11:13:37 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title PASSED ************
-08-31-2025 11:13:43 AM - custom_logger - test_login.py | ERROR : ************ test_login_positive2 FAILED ************
-08-31-2025 11:13:44 AM - custom_logger - test_login.py | INFO : ************ test_negative_username2 PASSED ************
-08-31-2025 11:13:44 AM - custom_logger - test_login.py | INFO : ************ test_negative_username PASSED ************
-08-31-2025 11:13:46 AM - custom_logger - test_login.py | INFO : ************ test_login_positive PASSED ************
