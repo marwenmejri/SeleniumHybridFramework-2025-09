@@ -1,0 +1,2 @@
+INFO     custom_logger:test_login.py:127 ************ test_negative_username2 STARTED ************
+INFO     custom_logger:test_login.py:142 ************ test_negative_username2 PASSED ************

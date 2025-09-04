@@ -1,0 +1,2 @@
+INFO     custom_logger:test_login.py:101 ************ test_login_positive2 STARTED ************
+ERROR    custom_logger:test_login.py:122 ************ test_login_positive2 FAILED ************
